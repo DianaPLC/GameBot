@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GameBot</string>
+    <string name="clear_selections">Clear selections</string>
+    <string name="selected">%1$s selected</string>
+    <string name="delete_selections">Delete selections</string>
+    <string name="games">Games</string>
+    <string name="new_game">New Game</string>
+    <string name="no_games">No Games</string>
+    <string name="select_game">Select %1$s</string>
+    <string name="players">Players</string>
+    <string name="min_players">Min Players</string>
+    <string name="max_players">Max Players</string>
+    <string name="players_range">%1$s - %2$s players</string>
+    <string name="complexity">Complexity</string>
+    <string name="duration">Duration</string>
+    <string name="size">Size</string>
+    <string name="edit_game">Edit Game</string>
+    <string name="no_name">&lt;no name&gt;</string>
+    <string name="name">Game Name</string>
+    <string name="done">Done Editing</string>
+    <string name="coop">Cooperative</string>
+    <string name="competitive">Competitive</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="update_picture">Update Picture</string>
+    <string name="ok">OK</string>
+    <string name="no_games_exp">There are no games matching the current filters.</string>
+</resources>
